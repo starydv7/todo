@@ -10,12 +10,61 @@
 
 }
 .para1{
-    color: rgb(64, 10, 243);
+    color: #3da406;
     font-weight: 600;
-    margin-left: 40px;
+    margin-left: 0px;
 }
 .para2{
     color: black;
     font-size: 15px;
-    margin-left: 40px;
+    margin-left: 0px;
+}
+.image{
+   height: 20px;
+   margin-left: 20px;
+   margin-top: 45%;
+   
+}
+.arrow{
+    display: flex;
+    margin-left: -20px;
+    gap: 0;
+
+    
+}
+.para3{
+    background-color: lightgrey;
+    width: 100%;
+    color: black;
+    font-weight: 300;
+    font: 8pt;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+
+}
+.recent{
+    background-color: #f5f5dc;
+    font: 400;
+    width: 20%;
+    height: 20px;
+    text-align: left;
+}
+.meal{
+    border: 2px solid blue;
+   height: 100px;
+   background-color:white;
+   margin-top: -5%;
+
+}
+.name-meal{
+    font: 500;
+  text-align: center;
+  margin-top: 40px;
+  margin-left: -30px;
+    font-size: 8pt;
+}
+.exercise{
+    background-color: hsl(60, 56%, 91%);
+}
+.exer{
+    
 }
