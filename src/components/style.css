@@ -1,0 +1,21 @@
+.goal{
+    background-color: darkgray;
+    width: 20%;
+    margin-left: 30px;
+
+}
+.kg{
+    display: flex;
+    gap: 30px;
+
+}
+.para1{
+    color: rgb(64, 10, 243);
+    font-weight: 600;
+    margin-left: 40px;
+}
+.para2{
+    color: black;
+    font-size: 15px;
+    margin-left: 40px;
+}
