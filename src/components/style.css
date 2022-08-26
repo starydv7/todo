@@ -38,6 +38,7 @@
     color: black;
     font-weight: 300;
     font: 8pt;
+    border-radius: 1%;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 
 }
@@ -66,5 +67,5 @@
     background-color: hsl(60, 56%, 91%);
 }
 .exer{
-    
+
 }
